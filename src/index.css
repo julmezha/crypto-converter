@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.news-feed {
+  background-color: red;
+}
+
+.currency-converter {
+  background-color: darkslategray;
+  text-align: center;
+  padding: 20px;
+  border-radius: 15px 50px 30px;
+  box-shadow: 0 0 1.25em 0.25em rgba(0, 0, 0, 0.25);
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: darkcyan;
+}
+
+.exchange-rate {
+  background-color: darkgrey;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+.currency-converter td {
+  text-align: left;
+  color: white;
+}
+
+.currency-converter h2 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.input-box button {
+  width: 50%;
+  margin: 1rem;
+}
+
+html, #root {
+  background-color: darkcyan;
+}
