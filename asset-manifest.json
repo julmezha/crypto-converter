@@ -1,7 +1,7 @@
 {
   "main.css": "/crypto-converter/static/css/main.eb8b65fd.chunk.css",
-  "main.js": "/crypto-converter/static/js/main.19ea9545.chunk.js",
-  "main.js.map": "/crypto-converter/static/js/main.19ea9545.chunk.js.map",
+  "main.js": "/crypto-converter/static/js/main.5bcdbb50.chunk.js",
+  "main.js.map": "/crypto-converter/static/js/main.5bcdbb50.chunk.js.map",
   "static/css/1.0046b19b.chunk.css": "/crypto-converter/static/css/1.0046b19b.chunk.css",
   "static/js/1.caa34441.chunk.js": "/crypto-converter/static/js/1.caa34441.chunk.js",
   "static/js/1.caa34441.chunk.js.map": "/crypto-converter/static/js/1.caa34441.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.eb8b65fd.chunk.css.map": "/crypto-converter/static/css/main.eb8b65fd.chunk.css.map",
   "static/css/1.0046b19b.chunk.css.map": "/crypto-converter/static/css/1.0046b19b.chunk.css.map",
   "index.html": "/crypto-converter/index.html",
-  "precache-manifest.a4905f3bec1acaa0f2c7993ce2cc1300.js": "/crypto-converter/precache-manifest.a4905f3bec1acaa0f2c7993ce2cc1300.js",
+  "precache-manifest.6c9b0f833aa3b1edb4fc193cc1342e80.js": "/crypto-converter/precache-manifest.6c9b0f833aa3b1edb4fc193cc1342e80.js",
   "service-worker.js": "/crypto-converter/service-worker.js"
 }
